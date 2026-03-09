@@ -1,4 +1,4 @@
-## 🎬 Watch Me Build This Lab!
+## 🎬 [Watch Me Build This Lab!](https://www.loom.com/share/601ed6d9776648fdb84a8733fc158ce4)
 
 # Azure Governance with RBAC, Policy, and Budgets
 
